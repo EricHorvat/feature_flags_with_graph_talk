@@ -1,0 +1,89 @@
+{
+  "free": {
+    "descendants": [
+      "PRs",
+      "free_feature",
+      "free_feature1",
+      "free_feature2",
+      "free_feature3",
+      "free_feature4",
+      "free_feature5",
+      "free_feature6",
+      "free_feature7",
+      "free_feature8",
+      "free_feature9",
+      "free_feature10",
+      "free_feature11",
+      "free_feature12",
+      "free_feature13",
+      "free_feature14",
+      "free_feature15",
+      "free_feature16",
+      "free_feature17",
+      "free_feature18",
+      "free_feature19",
+      "free_feature20",
+      "free_feature21",
+      "free_feature22",
+      "free_feature23",
+      "free_feature24",
+      "free_feature25",
+      "free_feature26",
+      "free_feature27",
+      "free_feature28",
+      "free_feature29",
+      "free_feature30",
+      "free_feature31",
+      "free_feature32",
+      "free_feature33",
+      "free_feature34",
+      "free_feature35",
+      "free_feature36",
+      "free_feature37",
+      "free_feature38",
+      "free_feature39",
+      "free_feature40",
+      "free_feature41",
+      "free_feature42",
+      "free_feature43",
+      "free_feature44",
+      "free_feature45",
+      "free_feature46",
+      "free_feature47",
+      "free_feature48",
+      "free_feature49",
+      "free_feature50",
+      "free_feature51",
+      "free_feature52",
+      "free_feature53",
+      "free_feature54",
+      "free_feature55",
+      "free_feature56",
+      "free_feature57",
+      "free_feature58",
+      "free_feature59"
+    ],
+    "subset": 2
+  },
+  "team": {
+    "descendants": [
+      "free",
+      "protected branches",
+      "draft PR"
+    ],
+    "subset": 1
+  },
+  "enterprise": {
+    "descendants": [
+      "team",
+      "SAML"
+    ],
+    "subset": 0
+  },
+  "draft PR": {
+    "descendants": [
+      "PRs"
+    ],
+    "subset": 2
+  }
+}

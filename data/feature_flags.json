@@ -1,0 +1,29 @@
+{
+  "free": {
+    "descendants": [
+      "PRs"
+    ],
+    "subset": 2
+  },
+  "team": {
+    "descendants": [
+      "free",
+      "protected branches",
+      "draft PR"
+    ],
+    "subset": 1
+  },
+  "enterprise": {
+    "descendants": [
+      "team",
+      "SAML"
+    ],
+    "subset": 0
+  },
+  "draft PR": {
+    "descendants": [
+      "PRs"
+    ],
+    "subset": 2
+  }
+}
